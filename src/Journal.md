@@ -177,3 +177,70 @@ Learned:
 Observation:
 Pattern printing improved my nested loop thinking.
 Need more practice in pyramid alignment.
+
+
+
+
+# 📅 Day 6 – String Practice & Problem Solving
+
+## ✅ Topics Revised
+- String traversal using for loop
+- charAt() method
+- equals() vs ==
+- Character frequency counting
+- Two pointer technique
+- Handling edge cases in strings
+
+---
+
+## 💻 LeetCode Problems Solved
+
+1. Valid Anagram  
+2. First Unique Character in a String  
+3. Length of Last Word  
+4. Valid Palindrome  
+
+---
+
+## 🧠 Key Concepts Practiced
+
+- Using frequency array (int[26]) for character counting
+- Reverse traversal from end of string
+- Skipping spaces and special characters
+- Case-insensitive comparison
+- Two-pointer approach for palindrome checking
+- Edge case handling (empty string, single character, spaces)
+
+---
+
+## ⚠️ Mistakes Faced
+
+- Initially confused between `==` and `.equals()` for strings
+- Forgot to handle trailing spaces in "Length of Last Word"
+- Missed edge case of special characters in Valid Palindrome
+- Minor off-by-one errors during traversal
+
+---
+
+## 📈 Learning Reflection
+
+Today improved:
+- Confidence in string traversal
+- Understanding of frequency-based problems
+- Ability to handle edge cases
+- Writing cleaner and structured logic
+
+I am starting to recognize patterns in string problems.
+Two-pointer and frequency-array approaches are becoming clearer.
+
+---
+
+## ⏱️ Practice Time
+Approx 2–3 hours focused problem solving.
+
+---
+
+## 🎯 Next Goal
+- Solve slightly harder string problems
+- Improve speed without compromising accuracy
+- Reduce syntax mistakes
