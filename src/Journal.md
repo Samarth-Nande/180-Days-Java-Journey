@@ -244,3 +244,73 @@ Approx 2–3 hours focused problem solving.
 - Solve slightly harder string problems
 - Improve speed without compromising accuracy
 - Reduce syntax mistakes
+
+
+# 📅 Day 6 – String Practice Programs
+
+## ✅ Topics Practiced
+- String traversal using loops
+- StringBuilder usage
+- Two-pointer technique
+- Character class methods (isDigit, isUpperCase, etc.)
+- String comparison using equals()
+- Removing duplicates
+- Word splitting using split()
+
+---
+
+## 💻 Programs Written
+
+1. Reverse String (Using StringBuilder)
+2. Palindrome String (Two-pointer method)
+3. Count Uppercase, Lowercase, Digits & Special Characters
+4. Remove Duplicate Characters
+5. Anagram Check (Sorting method)
+6. Find Longest Word in Sentence
+7. Check if String Contains Only Digits
+
+---
+
+## 🧠 Key Concepts Learned
+
+- Strings are immutable in Java.
+- StringBuilder is more efficient for modifications.
+- Two-pointer approach reduces extra space usage.
+- Character utility methods simplify validation.
+- split() helps convert sentence into words.
+- indexOf() can be used to detect duplicates.
+- Sorting character arrays is useful for anagram problems.
+
+---
+
+## ⚠️ Mistakes Faced
+
+- Initially confused between == and .equals()
+- Forgot to handle case sensitivity in some problems
+- Minor off-by-one errors in loops
+- Needed better edge case thinking (empty string, single character)
+
+---
+
+## 📈 Learning Reflection
+
+Today improved:
+- Logical thinking in string problems
+- Clean loop writing
+- Edge case handling
+- Understanding of different approaches (sorting vs frequency array)
+
+I am becoming more comfortable solving string-based problems.
+Two-pointer and frequency-based logic are getting clearer.
+
+---
+
+## ⏱️ Practice Duration
+Approx 2–3 hours of focused coding.
+
+---
+
+## 🎯 Next Goal
+- Solve medium-level string problems
+- Improve speed and reduce debugging time
+- Start HashMap-based string problems
