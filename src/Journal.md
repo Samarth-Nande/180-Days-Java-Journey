@@ -314,3 +314,73 @@ Approx 2–3 hours of focused coding.
 - Solve medium-level string problems
 - Improve speed and reduce debugging time
 - Start HashMap-based string problems
+
+
+
+
+
+# 📅 Day 7 – String Pattern Problems
+
+## ✅ Topics Practiced
+- Nested loops (row–column logic)
+- String indexing using charAt()
+- Pattern visualization
+- Pyramid alignment logic
+- Reverse traversal in patterns
+- Combining StringBuilder with patterns
+
+---
+
+## 💻 Pattern Programs Written
+
+1. String Triangle Pattern  
+2. Reverse String Triangle  
+3. Repeat Character Pattern  
+4. String Pyramid Pattern  
+5. Mirror String Pattern  
+6. Palindromic String Pattern  
+
+---
+
+## 🧠 Key Concepts Strengthened
+
+- Outer loop controls rows.
+- Inner loop controls characters printed in each row.
+- Proper spacing is important for pyramid alignment.
+- Reverse traversal logic helps build mirrored patterns.
+- Index control is critical in avoiding out-of-bound errors.
+- Pattern problems improve logical structuring ability.
+
+---
+
+## ⚠️ Mistakes Faced
+
+- Initially confused row vs column loops.
+- Off-by-one errors in nested loops.
+- Pyramid spacing logic required careful adjustment.
+- Needed to visualize output before coding.
+
+---
+
+## 📈 Learning Reflection
+
+Pattern problems improved:
+- Nested loop confidence
+- Logical visualization skills
+- Understanding of index manipulation
+- Clean indentation habits
+
+I can now think in terms of rows and columns instead of random loops.
+Pattern logic is becoming more intuitive.
+
+---
+
+## ⏱️ Practice Duration
+Approximately 2 hours of focused coding.
+
+---
+
+## 🎯 Next Goal
+- Solve mixed number + string patterns
+- Improve speed in nested loop problems
+- Move towards medium-level string problems
