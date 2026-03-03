@@ -384,3 +384,82 @@ Approximately 2 hours of focused coding.
 - Solve mixed number + string patterns
 - Improve speed in nested loop problems
 - Move towards medium-level string problems
+
+
+
+# 📅 Day 7 – Advanced String & Pattern Practice
+
+## ✅ Topics Practiced
+- Character manipulation using Character class
+- Nested loop logic for pattern problems
+- Frequency counting without duplicate output
+- String rotation logic
+- String compression logic
+- Case conversion techniques
+- Handling edge cases in string traversal
+
+---
+
+## 💻 Programs Implemented
+
+### 🔹 String Logic Problems
+1. Toggle Case of Every Character
+2. Character Frequency (without duplicate printing)
+3. Remove All Vowels from String
+4. Print Only Duplicate Characters
+5. First Repeating Character
+6. String Rotation Check
+7. String Compression (Basic Run-Length Encoding)
+
+### 🔹 Pattern Problems
+8. Alphabet Increasing Pattern
+9. Reverse Alphabet Pattern
+10. Diamond Alphabet Pattern
+
+---
+
+## 🧠 Key Concepts Strengthened
+
+- Proper nested loop structuring
+- Index control and boundary conditions
+- Boolean visited array for duplicate handling
+- Efficient string comparison techniques
+- Using (s + s).contains() trick for rotation problems
+- Understanding compression logic through consecutive counting
+- Visualizing row-column patterns before coding
+
+---
+
+## ⚠️ Challenges Faced
+
+- Off-by-one errors in nested loops
+- Managing visited array correctly
+- Diamond pattern spacing alignment
+- Resetting counters properly in compression logic
+
+---
+
+## 📈 Learning Reflection
+
+Today significantly improved:
+
+- Logical thinking in string-based problems
+- Comfort with nested loops
+- Ability to visualize patterns before coding
+- Confidence in writing clean and structured solutions
+
+String manipulation is becoming more intuitive.
+Pattern problems improved loop control and structure clarity.
+
+---
+
+## ⏱️ Practice Duration
+Approximately 3 hours of focused coding and debugging.
+
+---
+
+## 🎯 Next Goal
+- Start medium-level string problems
+- Learn HashMap-based frequency approach
+- Improve speed while maintaining clean code
+- Begin introduction to sliding window technique
