@@ -463,3 +463,87 @@ Approximately 3 hours of focused coding and debugging.
 - Learn HashMap-based frequency approach
 - Improve speed while maintaining clean code
 - Begin introduction to sliding window technique
+
+
+
+
+
+
+# 📅 Day 11 – Methods in Java
+
+## ✅ Topics Practiced
+
+* Creating methods in Java
+* Using parameters in methods
+* Returning values from methods
+* Calling methods from the `main()` function
+* Applying methods with arrays and strings
+
+---
+
+## 💻 Programs Implemented
+
+1. Add Two Numbers using a Method
+2. Check Even or Odd using a Method
+3. Find Largest Element in an Array using a Method
+4. Reverse a String using a Method
+5. Count Vowels in a String using a Method
+6. Calculate Factorial using a Method
+
+---
+
+## 🧠 Key Concepts Learned
+
+* Methods help **reuse code and keep programs organized**.
+* `public static` methods can be called directly from `main()`.
+* Methods can **accept parameters and return values**.
+* Returning values allows methods to be used in further calculations.
+* Arrays and strings can also be passed as parameters to methods.
+
+Example structure of a method:
+
+```
+returnType methodName(parameters) {
+    // logic
+    return value;
+}
+```
+
+Example:
+
+```
+public static int add(int a, int b) {
+    return a + b;
+}
+```
+
+---
+
+## ⚠️ Challenges Faced
+
+* Understanding when to use `return` vs `void`
+* Passing arrays correctly into methods
+* Avoiding repetitive code inside `main()`
+
+---
+
+## 📈 Learning Reflection
+
+Today improved my understanding of **structured programming in Java**.
+Using methods makes programs **cleaner, reusable, and easier to debug**.
+
+I can now separate logic into different methods instead of writing everything inside `main()`.
+
+---
+
+## ⏱️ Practice Duration
+
+Approximately **2–3 hours** of coding and testing programs.
+
+---
+
+## 🎯 Next Goal
+
+* Practice more **method-based problems**
+* Combine **methods with arrays and strings**
+* Start solving **method-based LeetCode problems**
