@@ -547,3 +547,89 @@ Approximately **2–3 hours** of coding and testing programs.
 * Practice more **method-based problems**
 * Combine **methods with arrays and strings**
 * Start solving **method-based LeetCode problems**
+
+
+
+
+
+# 📅 Day 12 – Methods with Arrays and Strings
+
+## ✅ Topics Practiced
+
+* Writing reusable methods in Java
+* Passing arrays as parameters to methods
+* Passing strings as parameters to methods
+* Returning values from methods
+* Separating logic from the `main()` method
+
+---
+
+## 💻 Programs Implemented
+
+1. **Sum of Array using Method**
+2. **Count Even Numbers in Array using Method**
+3. **Reverse Array using Method**
+4. **Palindrome String Check using Method**
+5. **Count Vowels in String using Method**
+6. **Remove Spaces from String using Method**
+
+---
+
+## 🧠 Key Concepts Strengthened
+
+* Methods help **avoid code repetition**.
+* Arrays and strings can be **passed as arguments** to methods.
+* Methods can **return results** that are used in `main()`.
+* Writing logic inside methods makes code **cleaner and easier to maintain**.
+* Loop logic can be reused in multiple programs when placed inside methods.
+
+Example structure of a method:
+
+```java
+returnType methodName(parameters) {
+    // logic
+    return value;
+}
+```
+
+Example:
+
+```java
+public static int sumArray(int[] arr) {
+    int sum = 0;
+    for(int i = 0; i < arr.length; i++) {
+        sum += arr[i];
+    }
+    return sum;
+}
+```
+
+---
+
+## ⚠️ Challenges Faced
+
+* Deciding when to use `void` vs returning values
+* Passing arrays correctly to methods
+* Structuring code so logic stays inside methods rather than `main()`
+
+---
+
+## 📈 Learning Reflection
+
+Today improved my understanding of **method-based programming**.
+Using methods makes programs more organized and easier to debug.
+I also practiced combining **arrays, strings, and loops with methods**, which is closer to real programming problems.
+
+---
+
+## ⏱️ Practice Duration
+
+Approximately **2–3 hours** of focused coding and testing.
+
+---
+
+## 🎯 Next Goal
+
+* Practice more **method-based problems**
+* Combine **methods with pattern and string problems**
+* Begin solving **LeetCode problems using methods**
