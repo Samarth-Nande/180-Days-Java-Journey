@@ -1,4 +1,4 @@
-public class StringRotation {
+public class str_rotation {
     public static void main(String[] args) {
 
         String s1 = "abcd";
