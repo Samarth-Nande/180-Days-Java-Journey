@@ -1,4 +1,4 @@
-public class FirstRepeating {
+public class first_repeating_char {
     public static void main(String[] args) {
         String str = "abccba";
         for (int i = 0; i < str.length(); i++) {
