@@ -633,3 +633,24 @@ Approximately **2–3 hours** of focused coding and testing.
 * Practice more **method-based problems**
 * Combine **methods with pattern and string problems**
 * Begin solving **LeetCode problems using methods**
+
+
+
+
+
+Day 13:-
+
+
+To learn array fundamentals and implement basic array operations, sorting, and searching algorithms in Java.
+
+Topics Covered
+
+Array declaration, initialization, and traversal
+
+Basic operations: largest element, reverse array, even/odd count, linear search, copy array
+
+Sorting algorithms: Bubble Sort, Selection Sort
+
+Searching algorithm: Binary Search
+
+Array problem solving: remove duplicates, rotate array, find second largest elemen
