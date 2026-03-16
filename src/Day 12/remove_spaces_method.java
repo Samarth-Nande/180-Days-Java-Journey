@@ -1,4 +1,4 @@
-public class RemoveSpacesMethod {
+public class remove_spaces_method {
     public static String removeSpaces(String str) {
         String result = "";
         for (int i = 0; i < str.length(); i++) {

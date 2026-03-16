@@ -1,4 +1,4 @@
-public class CountEvenArrayMethod {
+public class countevenno_method {
 
     public static int countEven(int[] arr) {
         int count = 0;

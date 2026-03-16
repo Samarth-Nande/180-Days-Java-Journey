@@ -1,5 +1,3 @@
-package Day 13;
-
 public class copy_arr_elements {
     public static void main(String[] args) {
         int[] arr1 = {1, 2, 3, 4, 5};

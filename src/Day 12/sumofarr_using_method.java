@@ -1,4 +1,4 @@
-public class SumArrayMethod {
+public class sumofarr_using_method {
     public static int sumArray(int[] arr) {
         int sum = 0;
         for (int i = 0; i < arr.length; i++) {
